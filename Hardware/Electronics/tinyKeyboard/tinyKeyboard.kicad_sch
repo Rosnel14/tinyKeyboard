@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c8577c11-9cf7-4d03-ba22-1951b5113619")
+	(paper "A4")
+	(title_block
+		(title "tinyKeyboard")
+		(company "Rosnel Alejandro Leyva-Cortes")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
